@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/D5616AQEHjKYGclvhuw/profile-displaybackgroundimage-shrink_350_1400/0/1677193038623?e=1682553600&v=beta&t=2OPOoEkx_wOrRBoZT5XjlNYJ4FyE8gYJPlv7S8b9mg4)
+![Banner](https://t3.ftcdn.net/jpg/05/35/35/38/360_F_535353834_fAKyu7nTpbpNux5XdR5T63OUJ6gDOHlD.jpg)
 
 ## 👋 ¡Hola! Soy Cristian Mendoza
 **Desarrollador Fullstack** con experiencia en **UX/UI**, **DevOps** y **Gestión de Proyectos**. Apasionado por crear experiencias digitales impactantes y aportar soluciones tecnológicas con propósito.
