@@ -36,4 +36,4 @@ I’m a Full Stack Developer focused on Angular, Node.js, Docker, and AWS, passi
 ## 📫 Contacto / Let's connect!
 - [🔗 LinkedIn](https://www.linkedin.com/in/criszmendoza/)
 - [💻 GitHub](https://github.com/criszmendoza)
-- ✉️ Email: criszmendoza212@gmail.com
+- ✉️ criszmendoza212@gmail.com
