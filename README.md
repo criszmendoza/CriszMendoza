@@ -1,11 +1,10 @@
 ![Banner](https://t3.ftcdn.net/jpg/02/34/44/16/360_F_234441670_C9KlCIyfp2l8tLKHrr4CNjctGz252bg5.jpg)
 
 ## 👋 ¡Hola! Soy Cristian Mendoza
-**Desarrollador Fullstack** con experiencia en **UX/UI**, **DevOps** y **Gestión de Proyectos**. Apasionado por crear experiencias digitales impactantes y aportar soluciones tecnológicas con propósito.
+Soy un Desarrollador Full Stack con enfoque en Angular, Node.js, Docker y AWS, apasionado por construir soluciones tecnológicas escalables, eficientes y centradas en el usuario. Me apasiona la innovación, el aprendizaje constante y la colaboración. Disfruto liderar iniciativas técnicas y compartir conocimientos, siempre buscando entregar soluciones de alto impacto. Actualmente me desempeño como Full Stack Developer, y estoy enfocado en crecer hacia un rol de Tech Lead, donde pueda combinar habilidades técnicas con liderazgo y visión de producto. Abierto a oportunidades remotas o presenciales en Ciudad de México, especialmente en empresas con una cultura de innovación, crecimiento y colaboración. Siempre estoy dispuesto a aprender, compartir y conectar con otros apasionados por la tecnología.
 
 ## 👋 Hi! I'm Cristian Mendoza
-**Fullstack Developer** with experience in **UX/UI**, **DevOps**, and **Project Management**. Passionate about crafting impactful digital experiences and contributing to purpose-driven tech solutions.
-
+I’m a Full Stack Developer focused on Angular, Node.js, Docker, and AWS, passionate about building scalable, efficient, and user-centered technology solutions. I’m driven by innovation, continuous learning, and collaboration. I enjoy leading technical initiatives and sharing knowledge, always aiming to deliver high-impact solutions. Currently, I’m working as a Full Stack Developer and growing toward a Tech Lead role, where I can combine technical expertise with leadership and product vision. Open to remote opportunities or on-site roles in Mexico City, especially in companies with a culture of innovation, growth, and collaboration. Always open to learning, sharing, and connecting with others who are passionate about technology.
 ---
 
 ## 🚀 Tecnologías y herramientas / Technologies & Tools
